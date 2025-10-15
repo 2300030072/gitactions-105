@@ -9,7 +9,7 @@ function App() {
   return (
    <div className="Container">
     <h1>Welcome to My React Project</h1>
-    <p>CI/CD and cloud DevOps </p>
+    <p>CI/CD and cloud DevOps Course</p>
    </div>
   )
 }
